@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582054046882.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8BBD98CE",
+    "lastKnownWriteTime" : 94901651125888,
+    "last_content_update" : 1582054046882,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7D086ED6",
+        "caption" : "da_geo_long",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=da_geo_long&cache_key=7D086ED6",
+        "displayedObservations" : "152412",
+        "environment" : "",
+        "expression" : "da_geo_long",
+        "object" : "da_geo_long",
+        "preview" : "0",
+        "totalObservations" : "152412",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
